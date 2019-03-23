@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProjectEuler")]
+[assembly: AssemblyTitle("02. Fibonacci")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProjectEuler")]
+[assembly: AssemblyProduct("02. Fibonacci")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("21f23a1f-a074-408d-a70b-54d4ab44dc2e")]
+[assembly: Guid("53b7a482-2475-41c2-82ff-07275bce241d")]
 
 // Version information for an assembly consists of the following four values:
 //

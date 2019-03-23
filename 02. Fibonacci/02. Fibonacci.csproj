@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{21F23A1F-A074-408D-A70B-54D4AB44DC2E}</ProjectGuid>
+    <ProjectGuid>{53B7A482-2475-41C2-82FF-07275BCE241D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProjectEuler</RootNamespace>
-    <AssemblyName>ProjectEuler</AssemblyName>
+    <RootNamespace>_02.Fibonacci</RootNamespace>
+    <AssemblyName>_02.Fibonacci</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
